@@ -1,1 +1,1 @@
-"Calcula MÇdia e Produto se 2 n£meros forem diferentes C# Curso Programaá∆o de Dispositivos M¢veis SENAC" 
+"Calcula M√©dia e Produto se 2 n√∫meros forem diferentes C# Curso Programa√ß√£o de Dispositivos M√≥veis SENAC" 
